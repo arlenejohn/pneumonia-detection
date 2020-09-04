@@ -1,0 +1,3 @@
+The x-rays are of dimensions (162, 128, 3). 
+The training data used 1349 x-rays of class 'normal' and 3883 x-rays of class 'pneumonia'. 
+The test data contains 234 x-rays of class 'normal' and 390 x-rays of class 'pneumonia'.

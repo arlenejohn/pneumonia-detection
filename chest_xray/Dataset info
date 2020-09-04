@@ -1,3 +1,0 @@
-Train folder contains normal and pneumonia folders with xrays from theese 2 classes.
-Test folder contains normal and pneumonia folders with xrays from theese 2 classes.
-The x-rays are of dimensions (162, 128, 3)
